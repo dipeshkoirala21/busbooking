@@ -10,7 +10,7 @@
   "dependencies": {
     "@mapbox/polyline": "^1.1.0",
     "expo": "^34.0.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "native-base": "^2.13.8",
     "polyline": "^0.2.0",
     "react": "16.8.3",
